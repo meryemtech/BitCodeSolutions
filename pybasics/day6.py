@@ -1,6 +1,7 @@
+if__name__ == '__main__':
 N = int(input())
 
-lst = []
+    lst = []
 
 for i in range(N):
     command = input().split()
